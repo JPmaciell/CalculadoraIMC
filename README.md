@@ -19,13 +19,13 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
   - Editar Texto
   - Botão
 - Toast para exibição
-- Intencao explícita para abrir a segunda atividade
-- FindViewBlynd para recuperar componentes da interface do usuario
-- String resource para concatenação de textos
+- Intenção  explicíta para abrir a segunda atividade
+- FindViewBlynd para recuperar componentes da interface do usuário 
+-  String resource para concatenação de textos
 
-## Pendencias
+## Pendências
 
-- Melhorar estilizaçao do app
+- Melhorar estilização do app
 
 ## Autor
 
